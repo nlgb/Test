@@ -18,6 +18,8 @@
     [super viewDidLoad];
     // 第一次提交代码
     // 在branch1上进行了开发...
+    // 在branch1 上修复了一个bug...
+    
 }
 
 - (void)didReceiveMemoryWarning {
